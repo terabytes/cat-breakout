@@ -8,10 +8,12 @@ In the classic game of breakout, a ball travels across the screen to blast away 
 
 ## In-Play
 Users move the bottom break to control the ball by moving their mouse or using the left/right arrow keys
+
 ![Middle of the game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/in-play.png "Middle of the game")
 
 ## Paused
 Users pause the game by hitting P with their keyboard
+
 ![Pausing the Game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/on-pawsed.png "Taking a break from the game")
 
 ## Game Over
