@@ -8,11 +8,11 @@ Check out the stages of the game below:
 
 ## In-Play
 Users move the bottom break to control the ball by moving their mouse or using the left/right arrow keys
-![Middle of the game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/game-play.png "Middle of the game")
+![Middle of the game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/in-play.png "Middle of the game")
 
 ## Paused
 Users pause the game by hitting P with their keyboard
-![Pausing the Game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/in-play.png "Taking a break from the game")
+![Pausing the Game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/pawsed.png "Taking a break from the game")
 
 ## Game Over
 ![End of Game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/game-over.png "Game over")
