@@ -15,4 +15,4 @@ Users pause the game by hitting P with their keyboard
 ![Pausing the Game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/on-pawsed.png "Taking a break from the game")
 
 ## Game Over
-![End of Game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/game-over.png "Game over")
+![End of Game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/game_over.png "Game over")
