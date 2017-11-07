@@ -20,7 +20,7 @@ import java.util.Random;
  * created in order for the GUI aspect of the 
  * program is implemented 
  * 
- * @author Susan
+ * @author tb
  *
  */
 public class Frame extends JFrame {
