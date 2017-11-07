@@ -4,7 +4,7 @@ import java.awt.*;
  * The ball class, the ball bounces around the screen. It has a location, a
  * size, a color, a speed, and x and y direction.
  * 
- * @author Susan
+ * @author tb
  *
  */
 public class Ball extends Rectangle {
