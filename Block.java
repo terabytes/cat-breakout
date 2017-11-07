@@ -4,7 +4,7 @@ import java.awt.*;
  * Block class to create blocks
  * that the game requires
  * 
- * @author Susan
+ * @author tb
  *
  */
 public class Block extends Rectangle  {
