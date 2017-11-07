@@ -3,7 +3,7 @@ import java.awt.*;
 /**
  * Paddle class that creates paddles
  * 
- * @author Susan
+ * @author tb
  *
  */
 public class Paddle extends Rectangle {
