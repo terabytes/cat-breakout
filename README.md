@@ -7,7 +7,7 @@ In the classic game of breakout, a ball travels across the screen to blast away 
 ![Start of the game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/start.png "Start of the game")
 
 ## In-Play
-Users move the bottom break to control the ball by moving their mouse or using the left/right arrow keys
+Users move the bottom brick to control the ball by moving their mouse or using the left/right arrow keys
 
 ![Middle of the game](https://raw.githubusercontent.com/terabytes/cat-breakout/master/in-play.png "Middle of the game")
 
